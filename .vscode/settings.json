@@ -1,0 +1,5 @@
+{
+    "python.defaultInterpreterPath": "/usr/local/bin/python3.12",
+    "python.poetryPath": "/Users/matt/.asdf/installs/poetry/1.8.2/venv/bin/poetry"
+    
+}
